@@ -1,0 +1,292 @@
+{
+  "hero": {
+    "badge": "🍽️ Cafe & Resto Sejak 2020",
+    "title": "Nikmati Waktu",
+    "titleHighlight": "Bersama Kami",
+    "description": "KMari menghadirkan suasana yang nyaman, tenang, dan ramah untuk bekerja, berdiskusi, maupun menikmati waktu berkualitas bersama keluarga. Sajian makanan pilihan dan coffee berkualitas kami hadir untuk menemani setiap momen Anda.",
+    "primaryButton": {
+      "label": "Lihat Menu",
+      "href": "#menu"
+    },
+    "secondaryButton": {
+      "label": "Kenali Kami",
+      "href": "#tentang"
+    },
+    "badges": [
+      { "text": "Fresh Ingredients", "position": "top-right" },
+      { "text": "Est. 2025", "position": "bottom-left" }
+    ]
+  },
+  "about": {
+    "badge": "Tentang Kami",
+    "title": "Cerita KMari",
+    "subtitle": "Mengenal lebih dekat perjalanan dan visi kami dalam menyajikan makanan dan minuman terbaik",
+    "imageAlt": "KMari Cafe Flagship Store",
+    "yearsLabel": "Tahun Melayani",
+    "yearsValue": "1+",
+    "storyTitle": "Asal Muasal Kami",
+    "story": [
+      "Berawal dari hobi sang owner yang gemar nongkrong bersama teman, muncul keinginan untuk menghadirkan tempat yang berbeda dari kebanyakan. Tidak sekadar menjadi tempat berkumpul anak muda, KMari dibangun dengan konsep yang nyaman dan ramah untuk semua kalangan, termasuk keluarga. Harapannya, setiap orang dapat menemukan suasana yang hangat untuk bersantai, bekerja, maupun menikmati waktu bersama orang-orang terkasih."
+    ],
+    "stats": [
+      { "value": "1000+", "label": "Happy Customers" },
+      { "value": "30+", "label": "Variasi Menu" }
+    ],
+    "features": [
+      {
+        "icon": "🍳",
+        "title": "Bahan Segar",
+        "description": "Kami menggunakan bahan-bahan segar pilihan dari supplier terpercaya untuk setiap hidangan."
+      },
+      {
+        "icon": "👨‍🍳",
+        "title": "Koki Berpengalaman",
+        "description": "Tim dapur kami berpengalaman lebih dari 5 tahun dalam mengolah berbagai masakan nusantara dan internasional."
+      },
+      {
+        "icon": "🏡",
+        "title": "Suasana Nyaman",
+        "description": "Didesain dengan konsep modern minimalis, lengkap dengan Wi-Fi gratis dan stopkontak di setiap meja."
+      }
+    ]
+  },
+  "menu": {
+    "badge": "Daftar Harga",
+    "title": "Menu Kami",
+    "subtitle": "Pilihan terbaik untuk memanjakan lidah Anda, dibuat dengan bahan-bahan berkualitas",
+    "note": "* Harga belum termasuk pajak 10%. Harga dapat berubah sewaktu-waktu.",
+    "categories": [
+      {
+        "title": "Nasi & Mie",
+        "icon": "🍚",
+        "image": "/menu-makanan.jpeg",
+        "items": [
+          {
+            "name": "Nasi Goreng Spesial",
+            "price": "Rp 35.000",
+            "description": "Nasi goreng dengan ayam, udang, dan telur"
+          },
+          {
+            "name": "Mie Goreng Kampung",
+            "price": "Rp 32.000",
+            "description": "Mie goreng dengan sayuran dan bakso"
+          },
+          {
+            "name": "Nasi Ayam Penyet",
+            "price": "Rp 38.000",
+            "description": "Nasi dengan ayam penyet sambal dadak",
+            "tag": "Favorit"
+          },
+          {
+            "name": "Nasi Rendang",
+            "price": "Rp 42.000",
+            "description": "Nasi dengan rendang sapi Padang asli",
+            "tag": "Best Seller"
+          },
+          {
+            "name": "Mie Ayam Jamur",
+            "price": "Rp 33.000",
+            "description": "Mie ayam dengan topping jamur champignon"
+          }
+        ]
+      },
+      {
+        "title": "Snack & Appetizer",
+        "icon": "🍟",
+        "image": "/menu-makanan.jpeg",
+        "items": [
+          {
+            "name": "French Fries",
+            "price": "Rp 28.000",
+            "description": "Kentang goreng renyah dengan saus pilihan"
+          },
+          {
+            "name": "Chicken Wings",
+            "price": "Rp 35.000",
+            "description": "Sayap ayam goreng crispy dengan baluran bumbu",
+            "tag": "Best Seller"
+          },
+          {
+            "name": "Spring Rolls",
+            "price": "Rp 25.000",
+            "description": "Lumpia goreng isi sayuran dan ayam"
+          },
+          {
+            "name": "Bruschetta",
+            "price": "Rp 30.000",
+            "description": "Roti panggang dengan topping tomat dan basil"
+          }
+        ]
+      },
+      {
+        "title": "Minuman",
+        "icon": "🍹",
+        "image": "/menu-minuman.jpeg",
+        "items": [
+          {
+            "name": "Es Jeruk Segar",
+            "price": "Rp 22.000",
+            "description": "Jus jeruk peras segar tanpa pemanis"
+          },
+          {
+            "name": "Lemon Tea",
+            "price": "Rp 20.000",
+            "description": "Teh dingin dengan perasan lemon segar"
+          },
+          {
+            "name": "Thai Tea",
+            "price": "Rp 25.000",
+            "description": "Teh Thailand autentik dengan susu kental manis"
+          },
+          {
+            "name": "Smoothie Bowl",
+            "price": "Rp 35.000",
+            "description": "Bowls buah segar dengan topping granola"
+          }
+        ]
+      },
+      {
+        "title": "Kopi & Speciality",
+        "icon": "☕",
+        "image": "/menu-minuman.jpeg",
+        "items": [
+          {
+            "name": "Espresso",
+            "price": "Rp 25.000",
+            "description": "Single shot espresso dari biji pilihan"
+          },
+          {
+            "name": "Cappuccino",
+            "price": "Rp 35.000",
+            "description": "Espresso dengan foam susu lembut"
+          },
+          {
+            "name": "KMari Signature",
+            "price": "Rp 42.000",
+            "description": "Kopi spesial kami dengan vanila & karamel",
+            "tag": "Best Seller"
+          },
+          {
+            "name": "Matcha Latte",
+            "price": "Rp 38.000",
+            "description": "Matcha premium Jepang dengan susu"
+          }
+        ]
+      },
+      {
+        "title": "Dessert",
+        "icon": "🍰",
+        "image": "/menu-makanan.jpeg",
+        "items": [
+          {
+            "name": "Tiramisu Cake",
+            "price": "Rp 38.000",
+            "description": "Kue tiramisu dengan lapisan kopi yang kaya"
+          },
+          {
+            "name": "Cheesecake",
+            "price": "Rp 40.000",
+            "description": "New York style cheesecake",
+            "tag": "Premium"
+          },
+          {
+            "name": "Pancake",
+            "price": "Rp 32.000",
+            "description": "Pancake lembut dengan sirup maple"
+          },
+          {
+            "name": "Ice Cream",
+            "price": "Rp 20.000",
+            "description": "Es krim homemade pilihan rasa"
+          }
+        ]
+      }
+    ]
+  },
+  "whyUs": {
+    "badge": "Keunggulan",
+    "title": "Kenapa Harus Kami?",
+    "subtitle": "Alasan mengapa KMari menjadi pilihan terbaik untuk makan dan minum",
+    "advantages": [
+      {
+        "icon": "🌿",
+        "title": "Bahan Segar",
+        "description": "Kami menggunakan bahan-bahan segar dan berkualitas tinggi dari supplier terpercaya."
+      },
+      {
+        "icon": "⚡",
+        "title": "Proses Cepat",
+        "description": "Pesanan Anda siap dalam waktu singkat tanpa mengurangi kualitas rasa."
+      },
+      {
+        "icon": "💰",
+        "title": "Harga Terjangkau",
+        "description": "Makanan enak tidak harus mahal. Nikmati kualitas terbaik dengan harga bersahabat."
+      },
+      {
+        "icon": "🎯",
+        "title": "Konsisten Rasa",
+        "description": "Setiap hidangan yang kami sajikan memiliki rasa yang konsisten dan terjaga kualitasnya."
+      }
+    ],
+    "cta": {
+      "title": "Siap Menikmati Hidangan Terbaik?",
+      "description": "Kunjungi KMari sekarang dan rasakan sendiri pengalaman bersantap yang berbeda",
+      "primaryButton": {
+        "label": "Lihat Menu",
+        "href": "#menu"
+      },
+      "secondaryButton": {
+        "label": "Chat WhatsApp",
+        "href": "https://wa.me/6281234567890"
+      }
+    }
+  },
+  "gallery": {
+    "badge": "Galeri",
+    "title": "Momen di KMari",
+    "subtitle": "Sekilas suasana dan hidangan yang bisa Anda nikmati",
+    "items": [
+      { "image": "/galeri1.jpeg", "caption": "A.C.A.B" },
+      { "image": "/galeri2.jpeg", "caption": "Teman-Teman A.C.A.B" },
+      { "image": "/galeri3.jpeg", "caption": "Live Music" },
+      { "image": "/galeri4.jpeg", "caption": "Momen Kumpul Keluarga" },
+      { "image": "/galeri5.jpeg", "caption": "Buka Bersama" },
+      { "image": "/galeri6.jpeg", "caption": "Berkumpul Bersama Teman" },
+      { "image": "/galeri7.jpeg", "caption": "Front Yard Café" },
+      { "image": "/galeri8.jpeg", "caption": "Backyard" }
+    ]
+  },
+  "map": {
+    "badge": "Lokasi",
+    "title": "Temukan Kami",
+    "subtitle": "Kunjungi langsung KMari untuk pengalaman terbaik",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16325658.127894457!2d96.63430041774366!3d-2.585620323011149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcddb004b00d44d%3A0xf6b77786ec011749!2sK.mari%20cafe!5e0!3m2!1sid!2sid!4v1781022967812!5m2!1sid!2sid"
+  },
+  "footer": {
+    "brand": "KMari",
+    "tagline": "Cafe & resto dengan makanan enak dan suasana yang nyaman.",
+    "hours": {
+      "title": "Jam Buka",
+      "items": ["Selasa - Minggu: 08:00 - 22:00"]
+    },
+    "contact": {
+      "title": "Kontak",
+      "items": [
+        "📍 Sokong, Kec. Tj., Kabupaten Lombok Utara, Nusa Tenggara Bar. 83352",
+        "📞 +62 853-3368-7889"
+      ]
+    },
+    "copyright": "© 2026 KMari. All rights reserved."
+  },
+  "header": {
+    "brand": "KMari",
+    "navItems": [
+      { "label": "Beranda", "href": "#hero" },
+      { "label": "Tentang", "href": "#tentang" },
+      { "label": "Menu", "href": "#menu" },
+      { "label": "Kenapa Kami", "href": "#kenapa-kami" },
+      { "label": "Galeri", "href": "#galeri" }
+    ]
+  }
+}
