@@ -1,9 +1,9 @@
 {
   "hero": {
-    "badge": "🍽️ Cafe & Resto Sejak 2020",
+    "badge": "🍽️ Cafe & Resto Sejak 2025",
     "title": "Nikmati Waktu",
     "titleHighlight": "Bersama Kami",
-    "description": "KMari menghadirkan suasana yang nyaman, tenang, dan ramah untuk bekerja, berdiskusi, maupun menikmati waktu berkualitas bersama keluarga. Sajian makanan pilihan dan coffee berkualitas kami hadir untuk menemani setiap momen Anda.",
+    "description": "K.Mari menghadirkan suasana yang nyaman, tenang, dan ramah untuk bekerja, berdiskusi, maupun menikmati waktu berkualitas bersama keluarga. Sajian makanan pilihan dan coffee berkualitas kami hadir untuk menemani setiap momen Anda.",
     "primaryButton": {
       "label": "Lihat Menu",
       "href": "#menu"
@@ -19,14 +19,14 @@
   },
   "about": {
     "badge": "Tentang Kami",
-    "title": "Cerita KMari",
+    "title": "Cerita K.Mari",
     "subtitle": "Mengenal lebih dekat perjalanan dan visi kami dalam menyajikan makanan dan minuman terbaik",
-    "imageAlt": "KMari Cafe Flagship Store",
+    "imageAlt": "K.Mari Cafe Flagship Store",
     "yearsLabel": "Tahun Melayani",
     "yearsValue": "1+",
     "storyTitle": "Asal Muasal Kami",
     "story": [
-      "Berawal dari hobi sang owner yang gemar nongkrong bersama teman, muncul keinginan untuk menghadirkan tempat yang berbeda dari kebanyakan. Tidak sekadar menjadi tempat berkumpul anak muda, KMari dibangun dengan konsep yang nyaman dan ramah untuk semua kalangan, termasuk keluarga. Harapannya, setiap orang dapat menemukan suasana yang hangat untuk bersantai, bekerja, maupun menikmati waktu bersama orang-orang terkasih."
+      "Berawal dari hobi sang owner yang gemar nongkrong bersama teman, muncul keinginan untuk menghadirkan tempat yang berbeda dari kebanyakan. Tidak sekadar menjadi tempat berkumpul anak muda, K.Mari dibangun dengan konsep yang nyaman dan ramah untuk semua kalangan, termasuk keluarga. Harapannya, setiap orang dapat menemukan suasana yang hangat untuk bersantai, bekerja, maupun menikmati waktu bersama orang-orang terkasih."
     ],
     "stats": [
       { "value": "1000+", "label": "Happy Customers" },
@@ -161,7 +161,7 @@
             "description": "Espresso dengan foam susu lembut"
           },
           {
-            "name": "KMari Signature",
+            "name": "K.Mari Signature",
             "price": "Rp 42.000",
             "description": "Kopi spesial kami dengan vanila & karamel",
             "tag": "Best Seller"
@@ -206,7 +206,7 @@
   "whyUs": {
     "badge": "Keunggulan",
     "title": "Kenapa Harus Kami?",
-    "subtitle": "Alasan mengapa KMari menjadi pilihan terbaik untuk makan dan minum",
+    "subtitle": "Alasan mengapa K.Mari menjadi pilihan terbaik untuk makan dan minum",
     "advantages": [
       {
         "icon": "🌿",
@@ -231,7 +231,7 @@
     ],
     "cta": {
       "title": "Siap Menikmati Hidangan Terbaik?",
-      "description": "Kunjungi KMari sekarang dan rasakan sendiri pengalaman bersantap yang berbeda",
+      "description": "Kunjungi K.Mari sekarang dan rasakan sendiri pengalaman bersantap yang berbeda",
       "primaryButton": {
         "label": "Lihat Menu",
         "href": "#menu"
@@ -244,7 +244,7 @@
   },
   "gallery": {
     "badge": "Galeri",
-    "title": "Momen di KMari",
+    "title": "Momen di K.Mari",
     "subtitle": "Sekilas suasana dan hidangan yang bisa Anda nikmati",
     "items": [
       { "image": "/galeri1.jpeg", "caption": "A.C.A.B" },
@@ -260,15 +260,15 @@
   "map": {
     "badge": "Lokasi",
     "title": "Temukan Kami",
-    "subtitle": "Kunjungi langsung KMari untuk pengalaman terbaik",
+    "subtitle": "Kunjungi langsung K.Mari untuk pengalaman terbaik",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16325658.127894457!2d96.63430041774366!3d-2.585620323011149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcddb004b00d44d%3A0xf6b77786ec011749!2sK.mari%20cafe!5e0!3m2!1sid!2sid!4v1781022967812!5m2!1sid!2sid"
   },
   "footer": {
-    "brand": "KMari",
+    "brand": "K.Mari",
     "tagline": "Cafe & resto dengan makanan enak dan suasana yang nyaman.",
     "hours": {
       "title": "Jam Buka",
-      "items": ["Selasa - Minggu: 08:00 - 22:00"]
+      "items": ["Selasa - Minggu: 17:00 - 22:00"]
     },
     "contact": {
       "title": "Kontak",
@@ -277,10 +277,10 @@
         "📞 +62 853-3368-7889"
       ]
     },
-    "copyright": "© 2026 KMari. All rights reserved."
+    "copyright": "© 2026 K.Mari. All rights reserved."
   },
   "header": {
-    "brand": "KMari",
+    "brand": "K.Mari",
     "navItems": [
       { "label": "Beranda", "href": "#hero" },
       { "label": "Tentang", "href": "#tentang" },

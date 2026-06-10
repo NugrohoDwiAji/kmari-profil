@@ -50,7 +50,7 @@ export default function Home() {
                 <div className="w-20 h-20 bg-purple-400/30 rounded-full flex items-center justify-center">
                   <img
                     src="/logo.jpeg"
-                    alt="KMari"
+                    alt="K.Mari"
                     className="w-14 h-14 object-contain"
                   />
                 </div>
@@ -110,7 +110,7 @@ export default function Home() {
                   <div className="w-36 h-36 lg:w-56 lg:h-56 bg-purple-400/30 rounded-full flex items-center justify-center">
                     <img
                       src="/logo.jpeg"
-                      alt="KMari"
+                      alt="K.Mari"
                       className="w-24 h-24 lg:w-36 lg:h-36 object-contain"
                     />
                   </div>
@@ -170,7 +170,7 @@ export default function Home() {
                 <div className="bg-gradient-to-br from-purple-100 to-purple-200 rounded-2xl md:rounded-3xl p-8 md:p-12 text-center">
                   <img
                     src="/logo.jpeg"
-                    alt="KMari"
+                    alt="K.Mari"
                     className="w-28 h-28 md:w-40 md:h-40 lg:w-48 lg:h-48 mx-auto object-contain mb-3 md:mb-4"
                   />
                   <p className="text-purple-700 font-medium text-sm md:text-base">
@@ -355,7 +355,7 @@ export default function Home() {
               "
             </span>
             <p className="text-lg md:text-2xl text-purple-100 leading-relaxed font-light italic">
-              KMari sering melakukan kesalahan, namun tetap berusaha memberikan
+              K.Mari pernah melakukan kesalahan, namun tetap berusaha memberikan
               pelayanan yang terbaik
             </p>
             <span className="text-4xl md:text-5xl text-purple-300 block mt-4 md:mt-6">
@@ -459,7 +459,7 @@ export default function Home() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Lokasi KMari"
+                title="Lokasi K.Mari"
                 className="absolute inset-0"
               />
             </div>
